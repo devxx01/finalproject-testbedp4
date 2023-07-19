@@ -93,5 +93,5 @@ To verify the result, we can try to send PING from host 1 to host 2 and vice ver
 
 ## References
 
-[P4Pi Simple L3 Forwarding](https://github.com/p4lang/p4pi/wiki/Example-%231-Simple-L3-forwarding-(Bmv2))
-[P4 Learning Exercise - MPLS Basic](https://github.com/nsg-ethz/p4-learning/tree/master/exercises/04-MPLS/thrift/mpls_basics)
+- [P4Pi Simple L3 Forwarding](https://github.com/p4lang/p4pi/wiki/Example-%231-Simple-L3-forwarding-(Bmv2))
+- [P4 Learning Exercise - MPLS Basic](https://github.com/nsg-ethz/p4-learning/tree/master/exercises/04-MPLS/thrift/mpls_basics)

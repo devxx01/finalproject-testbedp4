@@ -1,6 +1,6 @@
-# Source Code for Final Project
+# Project Explanation
 
-This is a source code repository for my final project in Telecommunication Engineering Undergraduate Studies.
+This is a source code repository for a project titled 'Implementation and Performance Analysis of P4 Programmable Data Plane Testbed in Mininet and Raspberry Pi'. This project is meant for undergraduate thesis submission in Telecommunication Engineering major at Bandung Institute of Technology.
 
 ## References
 

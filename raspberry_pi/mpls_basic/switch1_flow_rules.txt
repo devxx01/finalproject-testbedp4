@@ -1,0 +1,5 @@
+table_add check_is_ingress_border set_is_ingress_border 1 =>
+table_add check_is_egress_border is_egress_border 1 =>
+table_add mpls_tbl mpls_forward 2 => 20:7b:d2:4d:f5:79 2 
+table_add mpls_tbl mpls_forward 1 => e4:5f:01:12:d5:01 1
+table_add fec_to_label add_mpls_header 169.254.91.175/32 => 2

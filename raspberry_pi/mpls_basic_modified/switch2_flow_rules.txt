@@ -1,0 +1,4 @@
+table_add mpls_tbl mpls_forward 1 => 1c:61:b4:fe:f3:b2 2
+table_add mpls_tbl mpls_forward 2 => 1c:61:b4:fe:f3:b2 2
+table_add mpls_tbl mpls_forward 5 => 1c:61:b4:fe:f3:17 1
+table_add mpls_tbl mpls_forward 6 => 1c:61:b4:fe:f3:17 1

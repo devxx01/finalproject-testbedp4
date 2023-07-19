@@ -1,0 +1,2 @@
+table_add mpls_tbl mpls_forward 2 => 20:7b:d2:4d:f4:6f 2 
+table_add mpls_tbl mpls_forward 1 => 00:e0:4c:68:02:c9 1

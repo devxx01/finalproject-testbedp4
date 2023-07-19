@@ -1,0 +1,3 @@
+table_add FEC_tbl mpls_ingress_2_hop 169.254.91.0/24 => 2 2
+table_add mpls_tbl mpls_forward 2 0 => 20:7b:d2:4d:f5:79 2
+table_add FEC_tbl ipv4_forward 169.254.110.0/24 => e4:5f:01:12:d5:01 1

@@ -2,6 +2,8 @@
 
 P4 on Mininet will be implemented in topology consist of 4 switches and 2 hosts based on the picture below
 
+![P4 on Mininet Topology for Forwarding Scenario](topology.png)
+
 This project can be reproduced by following these steps 
 - Create Python file to setup the topology (see `create_topology.py` file as an example)
 - Configure flow rule files for each switch (see `switch_flow_rules.txt` file as an example)
